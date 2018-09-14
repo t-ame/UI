@@ -1,4 +1,0 @@
-HW Issues:
-
-* Lab 1.3: don’t know path to javadoc so i couldn’t set it.
-* 
